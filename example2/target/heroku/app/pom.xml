@@ -70,7 +70,7 @@
 					<processTypes>
 						<!-- Tell Heroku how to launch your application -->
 						<web>java -jar
-							target/spark-example2-1.0-jar-with-dependencies.jar</web>
+							target/example2-0.0.1-SNAPSHOT-jar-with-dependencies.jar</web>
 					</processTypes>
 				</configuration>
 			</plugin>
